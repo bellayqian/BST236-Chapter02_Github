@@ -13,4 +13,5 @@ This section is dedicated to testing how to resolve conflicts in Git. Conflicts 
 
 By practicing conflict resolution, you can ensure smooth collaboration in your projects.
 
+# Add bella_feature branch
 Test by Bella Feb 6, 2025
